@@ -1,0 +1,19 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "to do list of tasks\r it important for every one especily who has not time that he will order and orgnaized  the pripority of the tasks\r it olse good for pepole who dont remember so they can bdo look at their todoList to remember \r you can eidte and save the what do you want  it flexibal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maimai84/todoList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maimai84/todoList/issues"
+  },
+  "homepage": "https://github.com/maimai84/todoList#readme"
+}
